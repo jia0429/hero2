@@ -1,0 +1,39 @@
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2021,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Stone Bird",
+      "age" : 112,
+      "secretIdentity" : "Larry Bird",
+      "powers" : [
+        "Gravity control",
+        "High speed flight",
+        "Spray stone"
+      ]
+    },
+    {
+      "name" : "BIG EYE BOY",
+      "age" : 34,
+      "secretIdentity" : "McWaski",
+      "powers" : [
+        "Singing",
+        "Eat microphone",
+        "Make people laugh"
+      ]
+    },
+    {
+      "name" : "Shield Man",
+      "age" : 72,
+      "secretIdentity" : "Steve Rogers",
+      "powers" : [
+        "refuses to die",
+        "Regeneration ability",
+        "Inspiring people"
+      ]
+    }
+  ]
+}
